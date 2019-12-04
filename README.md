@@ -79,4 +79,3 @@ App bars are typically used in the Scaffold.appBar property, which places the ap
 When not used as Scaffold.appBar, or when wrapped in a Hero, place the app bar in a MediaQuery to take care of the padding around the content of the app bar if needed, as the padding will not be handled by Scaffold.
 
 Add a Popup Menu Button in an App Bar - Classes | Flutter for Web - https://youtu.be/sDgX0fuX5k8
-"# Flutter-for-Web" 
